@@ -1,8 +1,13 @@
 atom-beautify@0.30.6
+build@0.69.0
+build-cmake@0.11.0
+busy-signal@1.4.3
 dash-ui@0.4.4
 git-plus@7.10.0
 highlight-line@0.12.0
 highlight-selected@0.13.1
+language-cmake@0.3.0
+linter-gcc@0.7.1
 minimap@4.29.7
 minimap-cursorline@0.2.0
 set-syntax@0.4.0
