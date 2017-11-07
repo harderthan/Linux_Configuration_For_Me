@@ -12,6 +12,6 @@ linter@2.2.0
 linter-ui-default@1.6.10
 minimap@4.29.7
 minimap-cursorline@0.2.0
+platformio-ide-terminal@2.7.0
 set-syntax@0.4.0
-terminal-plus@0.14.5
 
